@@ -4,5 +4,5 @@ My personal website
 
 ## Education
 
-- Aulas info
+- Aulas informática
 - Aulas engenharia
